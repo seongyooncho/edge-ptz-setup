@@ -1,1 +1,1 @@
-libcamera-hello
+libcamera-hello -t 0
