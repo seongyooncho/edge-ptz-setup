@@ -1,5 +1,8 @@
 # edge-ptz-setup
 
+[<img width="710" height="400" alt="image" src="https://github.com/user-attachments/assets/bfadd124-33b3-4a54-beee-4b47412d6b41" />
+](https://youtu.be/IHDNo7IZao0)
+
 ## 개요
 
 이 저장소는 Edge PTZ DualCam 카메라 시스템을 라즈베리파이 기반 환경에서 제어하고, 카메라 프리뷰 및 팬틸트 모터를 UART로 제어하는 다양한 스크립트를 제공합니다.
